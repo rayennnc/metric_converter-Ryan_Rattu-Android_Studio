@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="metrics">
+        <item>Pilih Satuan</item>
+        <item>Panjang (m)</item>
+        <item>Massa (kg)</item>
+        <item>Waktu (s)</item>
+        <item>Arus Listrik (A)</item>
+        <item>Suhu (K)</item>
+        <item>Intensitas Cahaya (cd)</item>
+        <item>Jumlah Zat (mol)</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Kilometer (km)</item>
+        <item>Meter (m)</item>
+        <item>Sentimeter (cm)</item>
+        <item>Milimeter (mm)</item>
+    </string-array>
+
+    <string-array name="mass_units">
+        <item>Kilogram (kg)</item>
+        <item>Gram (g)</item>
+        <item>Miligram (mg)</item>
+        <item>Mikrogram (μg)</item>
+    </string-array>
+
+    <string-array name="time_units">
+        <item>Jam (j)</item>
+        <item>Menit (m)</item>
+        <item>Detik (d)</item>
+        <item>Milidetik (md)</item>
+    </string-array>
+
+    <string-array name="current_units">
+        <item>Ampere (A)</item>
+        <item>Miliampere (mA)</item>
+        <item>Mikroampere (μA)</item>
+        <item>Kiloampere (kA)</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Kelvin (K)</item>
+        <item>Celsius (°C)</item>
+        <item>Fahrenheit (°F)</item>
+    </string-array>
+
+    <string-array name="luminous_units">
+        <item>Kandela (cd)</item>
+        <item>Milikandela (mcd)</item>
+        <item>Kilokandela (kcd)</item>
+    </string-array>
+
+    <string-array name="substance_units">
+        <item>Mol (mol)</item>
+        <item>Milimol (mmol)</item>
+        <item>Mikromol (μmol)</item>
+        <item>Kilomol (kmol)</item>
+    </string-array>
+</resources>
